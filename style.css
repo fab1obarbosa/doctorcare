@@ -9,7 +9,7 @@
   font-size: 62.5%; /* 62.5% = 10px |PAdrão do site 16px | 1rem = 10px */
   --nav-height: 7.2rem;
 
-  --hue: 5300; /*Cor Inicial -> hue 170 */
+  --hue: 200; /*Cor Inicial -> hue 170 */
 
   /*Primary Colors*/
   --primmary-color: hsl(var(--hue), 100%, 26%);
