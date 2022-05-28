@@ -35,5 +35,7 @@
 
 <h1>📌Authors</h1>
 
-| [<img src="https://avatars.githubusercontent.com/u/69371317?v=4" width=115><br><sub>Fabio Barbosa</sub>](https://github.com/fab1obarbosa)
+
+[<img src="https://avatars.githubusercontent.com/u/69371317?v=4" width=115><br><sub align="center">Fabio Barbosa</sub>](https://github.com/fab1obarbosa)
+
 <br>
